@@ -1,2 +1,2 @@
 # hyperskillcourse_projects
-These are my hyperskill's projects that I have done
+These are my Hyperskill's projects that I have done
