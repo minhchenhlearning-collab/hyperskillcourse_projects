@@ -1,0 +1,1 @@
+This project is mainly created to get used to flowcharts. It's easy, if you're looking for help about this problem, just stick to flowcharts. I dont even know what I have done on stage 4 and 5, but I eventually solve it without so much efforts
