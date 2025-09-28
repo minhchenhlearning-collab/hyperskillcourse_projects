@@ -1,2 +1,0 @@
-Total numbers: 14.
-Sorted data: 1 1 1 1 1 1 1 2 2 2 2 12 21 42
